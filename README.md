@@ -34,7 +34,7 @@ The data analysis involved identifying the categories/columns that were relevant
 This project has been an enriching experience. I could refine my technical skills in the application of python, pandas, HTML, CSS, and data visualisation tools like Flourish. I also learnt how data analysis and visualisations work best when they complement an overarching narrative.
 
 ## Future Work
-I hope to return to this project to do deeper analysis in pandas and to design a website that is more visual and interactive in nature. I hope to explore libaries like D3, three.js and and other graphic and web design 
+I hope to return to this project to do deeper analysis in pandas and to design a website that is more visual and interactive. I also plan to explore libaries like D3, three.js and and further develop my graphic and web design skills.
 
 ## References: 
 
