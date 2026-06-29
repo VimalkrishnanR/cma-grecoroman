@@ -42,7 +42,9 @@ I hope to return to this project to do deeper analysis in pandas and to design a
 2. [Walt Disney Studio's Drawing on the Past](https://www.reuters.com/graphics/DISNEY-100/HISTORY/znvnzmzgjvl/)
 3. [Shall we call it the Metropolitan Meow-seum of Art? Cats rule the canvas in art galleries at The Met museum](https://surbhi-bh.github.io/cats-at-the-met-museum/)
 4. [Page Templates](https://jsoma.github.io/page-templates/)
-
+5. [1970.16 Neck Amphora](https://sketchfab.com/3d-models/197016-neck-amphora-0bb2525bdd734bf69d5a7b2b051928ad)
+6. [Catalog of the inaugural exhibition, June 6-September 20, 1916](https://library.si.edu/digital-library/book/catalogofinaugur00clev)
+7. [Catalogue of the inaugural exhibition : June 6-September 20, 1916](https://library.si.edu/digital-library/book/catalogofinaugur00clev)
 ## Acknwoledgements: 
 I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati. I also thank Carson TerBush for her mentorship. 
 
