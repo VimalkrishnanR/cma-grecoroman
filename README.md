@@ -23,9 +23,9 @@ Some of the primary questions that I wanted to answer are as follows:
 2. What are the different types fo artworks held by the department? 
 3. What are they made out of? 
 4. Exhibition and Citation history: 
-    -4.1: Compared to other departments, how widely have artworks in the Greek and Roman Art Department been exhibited? 
-    -4.2: Which is the most cited and most exhibited artwork within the department and within the museum's entire collection?
-    -4.3: Which are the artworks, currently held by Greek and Roman art Department, that were part of the inaugural exhibition?
+     4.1: Compared to other departments, how widely have artworks in the Greek and Roman Art Department been exhibited? 
+     4.2: Which is the most cited and most exhibited artwork within the department and within the museum's entire collection?
+     4.3: Which are the artworks, currently held by Greek and Roman art Department, that were part of the inaugural exhibition?
 Due to technical constraints and to allow for deeper practice with pandas, I streamlined the scope of the project. I focused on questions 1, 2, 3, and 4.3. 
 
 The data analysis involved identifying the categories/columns that were relevant for my questions and making dataframe subsets. I used the pandas package for casting the json data into a dataframe and for further analysis like value counts and cross tabulations. 
@@ -34,11 +34,13 @@ The data analysis involved identifying the categories/columns that were relevant
 This project has been an enriching experience. I could refine my technical skills in the application of python, pandas, HTML, CSS, and data visualisation tools like Flourish. I also learnt how data analysis and visualisations work best when they complement an overarching narrative.
 
 ## Future Work
-I hope to return to this project to do deeper analysis in pandas and to design a website that is more visual and interactive in nature. I hope to explore libaries like D3, three.js and and other graphic and web design tools.  
+I hope to return to this project to do deeper analysis in pandas and to design a website that is more visual and interactive in nature. I hope to explore libaries like D3, three.js and and other graphic and web design 
 
+## References: 
 
-
-
+1. [I read poetry for work. You get to read it for pleasure.](https://www.washingtonpost.com/opinions/interactive/2026/poetry-month-reading-pleasure/)
+2. [Walt Disney Studio's Drawing on the Past](https://www.reuters.com/graphics/DISNEY-100/HISTORY/znvnzmzgjvl/)
+3. [Shall we call it the Metropolitan Meow-seum of Art? Cats rule the canvas in art galleries at The Met museum](https://surbhi-bh.github.io/cats-at-the-met-museum/)
 
 
 
