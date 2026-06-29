@@ -1,5 +1,5 @@
  
-# Title of Story: For the Benefit of all the People Forever: Greek and Roman Art Collection at the Cleveland Museum of Art
+# For the Benefit of all the People Forever: Greek and Roman Art Collection at the Cleveland Museum of Art
 
 ### Lede Program - Project 1 
 
