@@ -44,6 +44,6 @@ I hope to return to this project to do deeper analysis in pandas and to design a
 4. (Page Templates)[https://jsoma.github.io/page-templates/]
 
 ## Acknwoledgements: 
-I thank my instructors Jonathan Soma, AAron Reiss, and Sandhya Kambhampati. I also thank Carson TerBush for her mentorship. 
+I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati. I also thank Carson TerBush for her mentorship. 
 
 
