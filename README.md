@@ -41,7 +41,7 @@ I hope to return to this project to do deeper analysis in pandas and to design a
 1. [I read poetry for work. You get to read it for pleasure.](https://www.washingtonpost.com/opinions/interactive/2026/poetry-month-reading-pleasure/)
 2. [Walt Disney Studio's Drawing on the Past](https://www.reuters.com/graphics/DISNEY-100/HISTORY/znvnzmzgjvl/)
 3. [Shall we call it the Metropolitan Meow-seum of Art? Cats rule the canvas in art galleries at The Met museum](https://surbhi-bh.github.io/cats-at-the-met-museum/)
-4. (Page Templates)[https://jsoma.github.io/page-templates/]
+4. [Page Templates](https://jsoma.github.io/page-templates/)
 
 ## Acknwoledgements: 
 I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati. I also thank Carson TerBush for her mentorship. 
