@@ -30,7 +30,7 @@ Due to technical constraints and to allow for deeper practice with pandas, I str
 
 The data analysis involved identifying the categories/columns that were relevant for my questions and making dataframe subsets. I used the pandas package for casting the json data into a dataframe and for further analysis like value counts and cross tabulations. 
 
-## Skills learned 
+## Skills learnt 
 This project has been an enriching experience. I could refine my technical skills in the application of python, pandas, HTML, CSS, and data visualisation tools like Flourish. I also learnt how data analysis and visualisations work best when they complement an overarching narrative.
 
 ## Future Work
