@@ -3,11 +3,15 @@
 
 ### Lede Program - Project 1 
 
-## Summary
+## Overview
 
-Project webpage: [https://vimalkrishnanr.github.io/cma-grecoroman/]
+Project webpage: [For the Benefit of all the People Forever: Greek and Roman Art Collection at the Cleveland Museum of Art](https://vimalkrishnanr.github.io/cma-grecoroman/)
 
-In this project, I am offering a brief data-visual interpretation the Greek and Roman art collections held by the Cleveland Musuem of Art (CMA). The CMA, opened in 1916, is celebrating its 110th anniversary this year. In my story I discuss how CMA's early identity was forged by a classical Greco-Roman aesthetic. In this context, my story visualises data related to the current collection held by the Greek and Roman art department of the CMA. 
+In this project, I am offering a brief data-visual interpretation of the Greek and Roman art collections held by the Cleveland Musuem of Art (CMA). The CMA, opened in 1916, is celebrating its 110th anniversary this year. In my story I discuss how CMA's early identity was forged by a classical Greco-Roman aesthetic. In this context, my story visualises data related to the current Greek and Roman art collection held by the CMA. 
+
+## Data Collection Process
+The primary source of data is the open access api offered by the CMA. Data is available in CSV, Json and API formats here:
+
 
 
 
