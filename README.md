@@ -46,6 +46,6 @@ I hope to return to this project to do deeper analysis in pandas and to design a
 6. [Catalogue of the inaugural exhibition, June 6-September 20, 1916](https://library.si.edu/digital-library/book/catalogueinaugu00clev)
 7. [Catalog of the inaugural exhibition : June 6-September 20, 1916](https://library.si.edu/digital-library/book/catalogofinaugur00clev)
 ## Acknwoledgements: 
-I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati. I also thank Carson TerBush for her mentorship. 
+I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati as well as Carson TerBush for her mentorship. I also acknowledge the broader faculty whose inputs in the upcoming courses will guide my next steps.   
 
 
