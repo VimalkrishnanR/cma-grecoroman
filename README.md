@@ -27,12 +27,18 @@ Some of the primary questions that I wanted to answer are as follows:
  - 4.2: Which is the most cited and most exhibited artwork within the department and within the museum's entire collection?
  - 4.3: Which are the artworks, currently held by Greek and Roman art Department, that were part of the inaugural exhibition?
 
-Due to technical constraints and to allow for deeper practice with pandas, I streamlined the scope of the project. I focused on questions 1, 2, 3, and 4.3. 
+To allow for deeper practice with pandas, I streamlined the scope of the project. I focused on questions 1, 2, 3, and 4.3. 
 
-The data analysis involved identifying the categories/columns that were relevant for my questions and making dataframe subsets. I used the pandas package for casting the json data into a dataframe and for further analysis like value counts and cross tabulations. 
+The data analysis involved identifying the categories/columns that were relevant for my questions and making subsets of the dataframe. I used the pandas package for casting the json data into a dataframe. By filtering relevand columns, I did further analysis like value counts (for pictogram) and cross tabulations (for sankey chart). To make a list of artworks that were exhibited in the inaugural exhibition, I filtered the  'exhibition' column by applying the string value 'Inaugural Exhibition'.
 
 ## Skills learnt 
 This project has been an enriching experience. I could refine my technical skills in the application of python, pandas, HTML, CSS, and data visualisation tools like Flourish. I also learnt how data analysis and visualisations work best when they complement an overarching narrative.
+
+## Tools used
+Python and various Python pacakges
+Jupyter Notebooks
+VS code
+Flourish
 
 ## Future Work
 I hope to return to this project to do deeper analysis in pandas and to design a website that is more visual and interactive. I also plan to explore libaries like D3, three.js and and further develop my graphic and web design skills.
@@ -47,6 +53,6 @@ I hope to return to this project to do deeper analysis in pandas and to design a
 6. [Catalogue of the inaugural exhibition, June 6-September 20, 1916](https://library.si.edu/digital-library/book/catalogueinaugu00clev)
 7. [Catalog of the inaugural exhibition : June 6-September 20, 1916](https://library.si.edu/digital-library/book/catalogofinaugur00clev)
 ## Acknowledgements: 
-I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati as well as Carson TerBush for her mentorship. I also acknowledge the broader faculty whose inputs in the upcoming courses will guide my next steps.   
+I thank my instructors Jonathan Soma, Aaron Reiss, and Sandhya Kambhampati. I also thank Carson TerBush for project mentorship and Anastasiia Morozova for additional inputs. I acknowledge the broader faculty whose guidance in upcoming courses will shape my next steps.   
 
 
