@@ -26,6 +26,7 @@ Some of the primary questions that I wanted to answer are as follows:
  - 4.1: Compared to other departments, how widely have artworks in the Greek and Roman Art Department been exhibited? 
  - 4.2: Which is the most cited and most exhibited artwork within the department and within the museum's entire collection?
  - 4.3: Which are the artworks, currently held by Greek and Roman art Department, that were part of the inaugural exhibition?
+
 Due to technical constraints and to allow for deeper practice with pandas, I streamlined the scope of the project. I focused on questions 1, 2, 3, and 4.3. 
 
 The data analysis involved identifying the categories/columns that were relevant for my questions and making dataframe subsets. I used the pandas package for casting the json data into a dataframe and for further analysis like value counts and cross tabulations. 
