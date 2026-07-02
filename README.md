@@ -20,12 +20,12 @@ As I focused on the Greek and Roman Art department, I used the official name of 
 
 Some of the primary questions that I wanted to answer are as follows: 
 1. What is the overall current composition of the Greek and Roman Art Department, at CMA? 
-2. What are the different types fo artworks held by the department? 
+2. What are the different types of artworks held by the department? 
 3. What are they made out of? 
 4. Exhibition and Citation history: 
  - 4.1: Compared to other departments, how widely have artworks in the Greek and Roman Art Department been exhibited? 
- - 4.2: Which is the most cited and most exhibited artwork within the department and within the museum's entire collection?
- - 4.3: Which are the artworks, currently held by Greek and Roman art Department, that were part of the inaugural exhibition?
+ - 4.2: Which is the most cited and most exhibited artwork within the Greek and Roman Art Department and within the museum's entire collection?
+ - 4.3: Which are the artworks, currently held by Greek and Roman art Department, that constituted the exhibits in the inaugural exhibition?
 
 To allow for deeper practice with pandas, I streamlined the scope of the project. I focused on questions 1, 2, 3, and 4.3. 
 
@@ -35,10 +35,10 @@ The data analysis involved identifying the categories/columns that were relevant
 This project has been an enriching experience. I could refine my technical skills in the application of python, pandas, HTML, CSS, and data visualisation tools like Flourish. I also learnt how data analysis and visualisations work best when they complement an overarching narrative.
 
 ## Tools used
-Python and various Python pacakges
-Jupyter Notebooks
-VS code
-Flourish
+ -  Python and various Python pacakges
+ -  Jupyter Notebooks
+ -  VS code
+ -  Flourish
 
 ## Future Work
 I hope to return to this project to do deeper analysis in pandas and to design a website that is more visual and interactive. I also plan to explore libaries like D3, three.js and and further develop my graphic and web design skills.
